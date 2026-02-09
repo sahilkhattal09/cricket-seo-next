@@ -74,7 +74,7 @@ export default function CountryPage({ country, players }: any) {
       </Head>
 
       <main className="min-h-screen bg-gradient-to-b from-blue-50 to-white py-8">
-        <div className="max-w-6xl mx-auto px-6">
+        <div className="max-w-6xl mx-auto px-6 pt-24 ">
           <h1 className="text-3xl sm:text-4xl font-semibold text-gray-900 mb-8 text-center">
             {country} Cricket Players
           </h1>

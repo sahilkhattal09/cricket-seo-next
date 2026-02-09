@@ -75,7 +75,7 @@ export default function RolePage({ role, players }: any) {
       </Head>
 
       <main className="bg-gradient-to-b from-blue-50 to-white py-10">
-        <div className="max-w-6xl mx-auto px-6">
+        <div className="max-w-6xl mx-auto px-6 pt-12">
           {/* Adjusted header */}
           <h1 className="text-3xl sm:text-3xl font-semibold text-gray-900 mb-8 text-center">
             {role} Players
