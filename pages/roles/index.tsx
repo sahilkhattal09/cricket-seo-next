@@ -18,7 +18,7 @@ export default function RolesPage() {
         <link rel="canonical" href={`${SITE_URL}/roles`} />
       </Head>
 
-      <main className="bg-gradient-to-b from-blue-50 to-white py-10">
+      <main className="bg-gradient-to-b from-blue-50 to-white py-10 pt-24">
         <div className="max-w-6xl mx-auto px-6">
           <h1 className="text-3xl sm:text-4xl font-semibold text-gray-900 mb-8 text-center">
             Browse by Role

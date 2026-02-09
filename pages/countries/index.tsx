@@ -30,7 +30,7 @@ export default function CountriesPage({
 
       <main className="bg-gradient-to-b from-blue-50 to-white p-8 sm:p-10">
         {/* Header / Hero */}
-        <div className="max-w-5xl mx-auto text-center mb-10 sm:mb-12">
+        <div className="max-w-5xl mx-auto text-center mb-10 sm:mb-12 pt-24">
           <h1 className="text-3xl sm:text-4xl font-semibold text-gray-900 mb-3">
             Explore Countries
           </h1>

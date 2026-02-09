@@ -58,7 +58,7 @@ export default function Home() {
 
       {/* HERO SECTION */}
       <section className="bg-white border-b">
-        <div className="max-w-7xl mx-auto px-6 py-10">
+        <div className="max-w-7xl mx-auto px-6 py-10 pt-24">
           <h1 className="text-4xl md:text-5xl font-bold text-gray-900">
             Cricket Player Profiles
           </h1>
