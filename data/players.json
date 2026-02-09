@@ -1,0 +1,132 @@
+[
+  {
+    "name": "Virat Kohli",
+    "slug": "virat-kohli",
+    "country": "India",
+    "role": "Batsman",
+    "runs": 12898,
+    "matches": 274,
+    "image": "/ViratKohli.jpg",
+    "description": "Virat Kohli is one of the greatest batsmen in modern cricket and former captain of India."
+  },
+  {
+    "name": "Rohit Sharma",
+    "slug": "rohit-sharma",
+    "country": "India",
+    "role": "Batsman",
+    "runs": 9825,
+    "matches": 243,
+    "image": "/rohit.jpg",
+    "description": "Rohit Sharma is known as the Hitman of Indian cricket and is famous for his explosive batting."
+  },
+  {
+    "name": "KL Rahul",
+    "slug": "kl-rahul",
+    "country": "India",
+    "role": "Batsman",
+    "runs": 7584,
+    "matches": 157,
+    "image": "/Klrahul.jpg",
+    "description": "KL Rahul is a versatile top-order batsman and wicketkeeper-batsman for India."
+  },
+  {
+    "name": "MS Dhoni",
+    "slug": "ms-dhoni",
+    "country": "India",
+    "role": "Wicketkeeper-Batsman",
+    "runs": 10500,
+    "matches": 350,
+    "image": "/dhoni.jpg",
+    "description": "MS Dhoni is a legendary Indian captain and wicketkeeper-batsman, famous for finishing matches and his calm leadership."
+  },
+  {
+    "name": "Mitchell Starc",
+    "slug": "mitchell-starc",
+    "country": "Australia",
+    "role": "Bowler",
+    "runs": 133,
+    "matches": 87,
+    "image": "/starc.jpg",
+    "description": "Mitchell Starc is a fast bowler known for deadly yorkers and pace."
+  },
+  {
+    "name": "Steve Smith",
+    "slug": "steve-smith",
+    "country": "Australia",
+    "role": "Batsman",
+    "runs": 7540,
+    "matches": 140,
+    "image": "/stevesmith.jpg",
+    "description": "Steve Smith is an Australian batsman famous for his unorthodox technique and consistency."
+  },
+  {
+    "name": "Pat Cummins",
+    "slug": "pat-cummins",
+    "country": "Australia",
+    "role": "Bowler",
+    "runs": 325,
+    "matches": 98,
+    "image": "/patcummins.jpg",
+    "description": "Pat Cummins is a fast bowler and the Australian captain, known for his pace and consistency."
+  },
+  {
+    "name": "Ben Stokes",
+    "slug": "ben-stokes",
+    "country": "England",
+    "role": "All-rounder",
+    "runs": 4500,
+    "matches": 150,
+    "image": "/benstokes.jpg",
+    "description": "Ben Stokes is a world-class all-rounder for England known for match-winning performances."
+  },
+  {
+    "name": "Jofra Archer",
+    "slug": "jofra-archer",
+    "country": "England",
+    "role": "Bowler",
+    "runs": 98,
+    "matches": 42,
+    "image": "/jofraarcher.jpg",
+    "description": "Jofra Archer is a fast bowler known for his speed and deadly yorkers."
+  },
+  {
+    "name": "Kane Williamson",
+    "slug": "kane-williamson",
+    "country": "New Zealand",
+    "role": "Batsman",
+    "runs": 6700,
+    "matches": 150,
+    "image": "/williamson.jpg",
+    "description": "Kane Williamson is the captain of New Zealand and a technically brilliant batsman."
+  },
+  {
+    "name": "Trent Boult",
+    "slug": "trent-boult",
+    "country": "New Zealand",
+    "role": "Bowler",
+    "runs": 412,
+    "matches": 105,
+    "image": "/Boult.jpg",
+    "description": "Trent Boult is a left-arm fast bowler known for his swing and deadly spells."
+  },
+  {
+    "name": "Babar Azam",
+    "slug": "babar-azam",
+    "country": "Pakistan",
+    "role": "Batsman",
+    "runs": 6250,
+    "matches": 140,
+    "image": "/babar.jpg",
+    "description": "Babar Azam is the Pakistani captain and a top-order batsman known for consistency."
+  },
+  {
+    "name": "Shaheen Afridi",
+    "slug": "shaheen-afridi",
+    "country": "Pakistan",
+    "role": "Bowler",
+    "runs": 200,
+    "matches": 65,
+    "image": "/shaheen.jpg",
+    "description": "Shaheen Afridi is a young left-arm fast bowler for Pakistan known for his pace and swing."
+  }
+]
